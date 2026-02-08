@@ -30,7 +30,7 @@ No meu portal e canal, você encontra:
 ### 📫 Vamos nos conectar?
 <p align="left">
 <a href="www.diretoaoconhecimento.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-<a href="[YouTube](https://www.youtube.com/@diretopython)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="[YouTube](https://www.youtube.com/@diretoaoconhecimento)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
