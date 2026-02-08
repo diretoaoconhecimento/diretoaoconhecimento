@@ -15,6 +15,7 @@ Sou a criadora do projeto **Direto ao Conhecimento**, onde transformo tecnologia
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diretoaoconhecimento)
 
 O que você encontrará aqui?
+
 ✅ **Tutoriais** sobre Python e suas principais bibliotecas  
 ✅ **Projetos práticos** para reforçar seu aprendizado  
 ✅ **Dicas de produtividade** para programadores  
