@@ -11,9 +11,9 @@ Sou a criadora do projeto **Direto ao Conhecimento**, onde transformo tecnologia
 ---
 
 ### 🚀 Direto ao Conhecimento
-No meu portal e canal, você encontra:
 [![Website](https://img.shields.io/badge/Direto%20ao%20Conhecimento-442C2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diretoaoconhecimento.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diretoaoconhecimento)
+No meu portal e canal, você encontra:
 * **Aprenda Python com Flet**: Uma playlist focada em criar interfaces modernas.
 * **Automação e Dados**: Projetos reais usando APIs como a do Senado Federal.
 
