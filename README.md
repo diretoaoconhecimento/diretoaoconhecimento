@@ -30,7 +30,7 @@ No meu portal e canal, você encontra:
 ### 📫 Vamos nos conectar?
 [![Website](https://img.shields.io/badge/Direto%20ao%20Conhecimento-442C2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diretoaoconhecimento.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diretoaoconhecimento)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/diretoaoconhecimento/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diretoaoconhecimento/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DiretoAoPython?t=yDrzOOR_Gml0VtiVYAZvQg&s=08)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diretoaoconhecimento@gmail.com)
 
