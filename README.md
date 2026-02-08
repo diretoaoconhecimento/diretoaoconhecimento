@@ -20,6 +20,24 @@ No meu portal e canal, você encontra:
 
 ---
 
+### O que você encontrará aqui?  
+
+✅ **Tutoriais** sobre Python e suas principais bibliotecas  
+✅ **Projetos práticos** para reforçar seu aprendizado  
+✅ **Dicas de produtividade** para programadores  
+✅ **Automação** de tarefas e processos  
+✅ **Análise de dados** e integração com APIs  
+
+---
+
+### Conteúdos recomendados  
+
+🔹 [Aprenda Python com Flet](https://www.youtube.com/playlist?list=PLi6TNT5J8PtXotYJBLypBTWoTW7OsXFP4)  
+🔹 [Aprenda Python com QGis](https://www.youtube.com/playlist?list=PLi6TNT5J8PtUdvtirdgTvCXd5Dw2T6kjW)  
+🔹 [Inove com Python](https://www.youtube.com/watch?v=glUMoHAmZyg&list=PLi6TNT5J8PtVmW0R5ds6yOyejo3bpCFWC)  
+
+---
+
 ### 🛠️ Minhas Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
